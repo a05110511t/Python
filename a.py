@@ -11,7 +11,6 @@ print 'site:.gov.tw intitle:"index of" inurl:"index" ext:xls | "身分證" | "�
 print 'If there is no any response while using Google Search engine, change search engine, please.'
 print 'Ctrl + c to interrupt.\n\n'
 print 'Output.txt will generate at current directory.'
-print 'Created by KPMG Cyber Security and Crime Lab 2017.5.'
 
 choose_engine = raw_input("\nChoose search engine: ")
 site = raw_input("site: ")
