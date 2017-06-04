@@ -1,3 +1,4 @@
 # Python
 for use or for pratice
-make some record
+
+or make some record
