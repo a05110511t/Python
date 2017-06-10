@@ -11,11 +11,11 @@ $ source bin/activate
 若要退出則輸入：
 $ deactivate
 
-4.在虛擬環境安裝需要的Python套件
+4. 在虛擬環境安裝需要的Python套件
 $ pip install requests
 $ pip install beautifulsoup4
 
-5.使用 a.py
+5. 使用 a.py
 $ python a.py
 site:.gov.tw inurl:???
 
