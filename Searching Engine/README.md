@@ -1,3 +1,6 @@
+# 使用說明
+
+首先要有python2.7版
 
 1. 安裝Python虛擬環境套件
 $ easy_install virtualenv
